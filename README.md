@@ -20,7 +20,7 @@ Aplicativo web que busca endereços a partir de um CEP brasileiro, integrando a 
 ## Instalação
 1. Clone o repositório:
    ```sh
-   git clone 
+   git clone https://github.com/m4riott0/Desafio-AG-sistemas.git
    cd Desafio-AG-sistemas
    ```
 2. Instale dependências:
