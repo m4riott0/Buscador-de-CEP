@@ -20,8 +20,8 @@ Aplicativo web que busca endereços a partir de um CEP brasileiro, integrando a 
 ## Instalação
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/m4riott0/Desafio-AG-sistemas.git
-   cd Desafio-AG-sistemas
+   https://github.com/m4riott0/Buscador-de-CEP.git
+   cd Buscador-de-CEP
    ```
 2. Instale dependências:
    ```sh
